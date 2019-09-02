@@ -1,0 +1,5 @@
+dnspython3
+requests
+colorama
+xlwt
+xlrd
